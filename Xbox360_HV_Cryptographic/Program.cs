@@ -6,18 +6,10 @@ using System.Numerics;
 using System.Security.Cryptography;
 using System.Collections.Generic;
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 7fac7492533b71b5c3f086f9268fc315a6e5bac6
 //this is a c-sharp remake of the of the Python script released on this GitHub 
 //https://github.com/GoobyCorp/Xbox-360-Crypto/blob/master/MemCrypto.py 
 //credits = ["tydye81", "teir1plus2", "no-op", "juv", "GoobyCorp"]
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 7fac7492533b71b5c3f086f9268fc315a6e5bac6
 class Program
 {
     static bool EnableDebug = false; // Debug logs are disabled by default
