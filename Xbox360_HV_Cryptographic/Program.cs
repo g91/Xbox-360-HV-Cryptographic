@@ -6,6 +6,12 @@ using System.Numerics;
 using System.Security.Cryptography;
 using System.Collections.Generic;
 
+
+//this is a c-sharp remake of the of the Python script released on this GitHub 
+//https://github.com/GoobyCorp/Xbox-360-Crypto/blob/master/MemCrypto.py 
+//credits = ["tydye81", "teir1plus2", "no-op", "juv", "GoobyCorp"]
+
+
 class Program
 {
     static bool EnableDebug = false; // Default: no debug logs
