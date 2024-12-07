@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xbox360_HV_Cryptographic", "Xbox360_HV_Cryptographic\Xbox360_HV_Cryptographic.csproj", "{F8D3286D-C025-4DA4-91AE-DED1E3AF60CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HyperVault", "Xbox360_HV_Cryptographic\HyperVault.csproj", "{F8D3286D-C025-4DA4-91AE-DED1E3AF60CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
